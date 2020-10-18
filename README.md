@@ -8,4 +8,7 @@
 
 ## Examples:
 ### Beacon, Blinker, Glider, & Toad:
-![Example](conway_example.gif)
+![](conway_example1.gif)
+
+### Heavy-weight spaceship:
+![](conway_example2.gif)
